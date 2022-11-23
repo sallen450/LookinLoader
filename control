@@ -1,0 +1,9 @@
+Package: com.sallen450.lookinloader
+Name: LookinLoader
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Lookin tweak for Taurine/iOS 14.3/A12+ .
+Maintainer: sallen450
+Author: sallen450
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, applist
